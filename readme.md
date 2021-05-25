@@ -7,6 +7,8 @@ LaraClassified is a Classified CMS, a powerfull modulable app and has a fully re
 
 The documentation is located in the folder: documentation/
 
+Review Plugin is added
+
 
 ## License
 
