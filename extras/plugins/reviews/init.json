@@ -1,0 +1,10 @@
+{
+    "name": "reviews",
+    "version": "1.8",
+    "display_name": "Reviews",
+    "description": "Reviews System",
+    "author": "Bedigit",
+    "category": "item-module",
+    "has_installer": true,
+    "item_id": ""
+}

@@ -1,0 +1,42 @@
+<?php
+
+return [
+    'Reviews' => 'Reviews',
+    'Review' => 'Review',
+    'Reviews system' => 'Reviews system',
+    'Ratings' => 'Ratings',
+    'Rating' => 'Rating',
+    'count_reviews' => '{0} review|{1} review|[2,*] reviews',
+    'count_stars' => '{0} star|{1} star|[2,*] stars',
+    'count_ratings' => '{0} rating|{1} rating|[2,*] ratings',
+    'There were errors while submitting this review' => 'There were errors while submitting this review',
+    'Your review has been posted!' => 'Your review has been posted!',
+    'Your review has been removed!' => 'Your review has been removed!',
+    'Enter your review here...' => 'Enter your review here...',
+    'Leave a Review' => 'Leave a Review',
+    'Anonymous' => 'Anonymous',
+    'Delete' => 'Delete',
+    'Ad' => 'Ad',
+    'Comments' => 'Comments',
+    'Comment' => 'Comment',
+    'Approved' => 'Approved',
+    'Spam' => 'Spam',
+    'User' => 'User',
+    'Note' => 'Note',
+    'You must be logged in to post a review.' => 'You must be logged in to post a review.',
+    'validation' => [
+        'comment' => [
+            'required' => 'The comment field is required.',
+            'min' => 'The :attribute must be at least :min characters.',
+            'max' => 'The :attribute may not be greater than :max characters.',
+        ],
+        'rating' => [
+            'required' => 'The rating (by stars) is required.',
+            'integer'  => 'The :attribute must be an integer.',
+            'between' => 'The :attribute must be between :min and :max.',
+        ],
+    ],
+	'guests_comments_label' => 'Allow Guests to post Reviews',
+	'guests_comments_hint' => 'Allow guest users to post Ratings and Comments',
+	'Manage' => 'Manage',
+];
